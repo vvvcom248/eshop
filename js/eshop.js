@@ -51,7 +51,7 @@ function showMiniCart() {
     for (var w in cart) {
         out += w + '---' + cart[w] + '<br>';
     }
-    out+='<br><a href="cart.html">Корзина</a>'//переход в корзину
+    out+='<br><a href="cart">Корзина</a>'//переход в корзину
     $('#mini-cart').html(out);
 
 }

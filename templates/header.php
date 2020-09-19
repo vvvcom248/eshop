@@ -9,12 +9,3 @@
 </head>
 
 <body>
-    <div id="mini-cart"></div>
-    <div id="goods">
-
-    </div>
-    <script src="js/jquery-3.5.1.min.js"></script>
-    <script src="js/eshop.js"></script>
-</body>
-
-</html>
